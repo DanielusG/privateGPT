@@ -12,3 +12,4 @@ pandoc==2.3
 pypandoc==1.11
 tqdm==4.65.0
 langdetect==1.0.9
+deep_translator==1.11.1
