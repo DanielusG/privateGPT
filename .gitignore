@@ -170,3 +170,4 @@ cython_debug/
 #.idea/
 source_documents/
 .vscode/**
+venvW/
